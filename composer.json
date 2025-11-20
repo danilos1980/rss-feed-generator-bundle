@@ -1,5 +1,5 @@
 {
-    "name": "markocupic/rss-feed-generator-bundle",
+    "name": "danilos1980/rss-feed-generator-bundle",
     "description": "Simple RSS feed generator. Generate RSS feeds inside a symfony controller.",
     "keywords": [
         "RSS",
